@@ -1,0 +1,15 @@
+{
+  "name": "kibikov-bank",
+  "version": "1.0.0",
+  "description": "Банк Кибиков - приложение для управления виртуальной валютой",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --watch"
+  },
+  "devDependencies": {
+    "electron": "^27.0.0"
+  },
+  "author": "Ваше имя",
+  "license": "MIT"
+}
